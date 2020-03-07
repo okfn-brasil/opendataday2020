@@ -1,6 +1,32 @@
 # Open Data Day 2020
-Repositório das atividades realizadas no Open Data Day 2020 - São Paulo
 
+Este repositório documenta as atividades realizadas durante o Open Data Day 2020, em edição realizada pela Open Knowledge Brasil em parceria com o Goethe-Institut, em São Paulo. 
+
+Apresentações que aconteceram na parte da manhã:  
+
+### Explorando os Dados do TSE via CEPESP-DATA
+Com Lara Mesquita e Guilherme Russo, cientistas políticos do CEPESP da FGV
+<br>
+Download da apresentação. 
+
+### Parlametria: inteligência de dados para ação cidadã
+Com Ariane Alves e Fernanda Campagnucci, da Open Knowledge Brasil
+<br> 
+Exposição do [site](https://parlametria.org/).
+
+### Entrevistando a base de dados de empresas para encontrar conexões com o legislativo
+Com Marcelo Soares, jornalista de dados, fundador da Lagom Data
+<br>
+Download da apresentação. 
+
+### Desafios dos dados abertos do legislativo estadual 
+Com Pedro Markun, coordenador de inovação do mandato da deputada estadual Marina Helou (Rede)
+<br>
+Download da apresentação. 
+
+## Mão na massa!
+<br>
+Depois das palestras, as participantes fizeram um "toró de ideias" de problemas e desafios a explorar nas bases de dados. Abaixo, as propostas que surgiram e os grupos que se formaram para trabalhar com os dados.   
  
 ## MESA 1
 - Cruzamento de empresas com mandatos de deputados estaduais   
